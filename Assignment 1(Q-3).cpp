@@ -1,4 +1,4 @@
-3) Predict the Output of the following program:
+//3) Predict the Output of the following program:
 
 
 #include<iostream>
